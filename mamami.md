@@ -9,4 +9,4 @@ some are ridged or corrugated and others grow in the wide sweepingcurves finishi
 
 ###### below is a picture of an antelop
 
-![this is a screenshop of an antelop](c:\Users\User\Pictures\antelop pix.png)
+![this is a screenshop of an antelop](https://github.com/lauraleloho/REDO_ASSIGNMENT/blob/main/Screenshot%20bird.png)
